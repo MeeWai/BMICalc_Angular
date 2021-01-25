@@ -1,0 +1,7 @@
+{
+  "name": "BMICalculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
