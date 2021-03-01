@@ -1,7 +1,10 @@
 {
   "name": "BMICalculator",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": true
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
